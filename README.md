@@ -1,6 +1,6 @@
 # PingMe
 
-allprojects {
+		allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
@@ -8,9 +8,11 @@ allprojects {
 	}
   
   
-  	dependencies {
+  
+  
+  dependencies 
 	        implementation 'com.github.faysalneowaz:PingMe:Tag'
-	}
+	
   
   
   
