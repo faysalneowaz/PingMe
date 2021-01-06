@@ -1,3 +1,5 @@
+https://jitpack.io/v/faysalneowaz/PingMe.svg
+
 # PingMe
 
 		allprojects {
