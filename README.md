@@ -5,13 +5,15 @@
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}
+		}
   
   
   
   
   dependencies 
-	        implementation 'com.github.faysalneowaz:PingMe:Tag'
+	       
+	       
+	       implementation 'com.github.faysalneowaz:PingMe:Tag'
 	
   
   
