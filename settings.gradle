@@ -1,0 +1,3 @@
+include ':pingme'
+include ':app'
+rootProject.name = "Ping Me"

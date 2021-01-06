@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ping Me</string>
+    <string name="timeout">** Timeout **</string>
+</resources>
