@@ -13,7 +13,7 @@
   dependencies 
 	       
 	       
-	       implementation 'com.github.faysalneowaz:PingMe:Tag'
+	       implementation 'com.github.faysalneowaz:PingMe:1.0.0'
 	
   
   
